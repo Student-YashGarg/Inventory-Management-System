@@ -40,6 +40,7 @@ The system can be launched in **three different ways** depending on the use case
   Useful for POS and billing testing
 ###
 #------------------------------------------------------------------
+
 🖥️ Dashboards Overview
 
   🔐 Login Form:
@@ -57,6 +58,7 @@ The system can be launched in **three different ways** depending on the use case
   Automatic stock deduction after purchase
 
 #--------------------------------------------------------------
+
 🛠️ Technologies Used
 
   Python
@@ -67,6 +69,7 @@ The system can be launched in **three different ways** depending on the use case
   MVC-like Architecture
 
 #------------------------------------------------------------------
+
 📂 Project Structure
 
   Inventory_Management_System/
@@ -80,6 +83,7 @@ The system can be launched in **three different ways** depending on the use case
   └── README.md
 
 #------------------------------------------------------------------
+
 🗄️ Database
 
   MySQL database is used to store:
@@ -91,6 +95,7 @@ The system can be launched in **three different ways** depending on the use case
     All database operations are handled using a DAO layer
 
 #------------------------------------------------------------------
+
 🎯 Purpose of the Project
   
   This project was developed to:
@@ -100,6 +105,7 @@ The system can be launched in **three different ways** depending on the use case
     Build a strong portfolio project for internships and entry-level roles
     
 #####################################################################
+
 👤 Author
   
   Yash Garg
