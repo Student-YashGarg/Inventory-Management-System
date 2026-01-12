@@ -4,7 +4,7 @@ A **GUI-based Inventory Management System** built using **Python, CustomTkinter,
 The application follows a **clean architecture (GUI + Model + DAO)** and provides **role-based dashboards** for administration and shopping/billing operations.
 
 ---
-#-----------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------
 ## 🚀 Features
 - Secure login system
 - Role-based access (Admin / Shopping)
@@ -14,7 +14,7 @@ The application follows a **clean architecture (GUI + Model + DAO)** and provide
 - Modular, scalable, and maintainable code structure
 
 ---
-#----------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------
 ## 🧭 Application Entry Points
 The system can be launched in **three different ways** depending on the use case:
 
@@ -39,7 +39,7 @@ The system can be launched in **three different ways** depending on the use case
   Opens the Shopping / Billing Dashboard directly
   Useful for POS and billing testing
 ###
-#--------------------------------------------------------------------------------------------
+#------------------------------------------------------------------
 🖥️ Dashboards Overview
 
   🔐 Login Form:
@@ -56,7 +56,7 @@ The system can be launched in **three different ways** depending on the use case
   Bill generation
   Automatic stock deduction after purchase
 
-#------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------
 🛠️ Technologies Used
 
   Python
@@ -66,7 +66,7 @@ The system can be launched in **three different ways** depending on the use case
   DAO Design Pattern
   MVC-like Architecture
 
-#-------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------
 📂 Project Structure
 
   Inventory_Management_System/
@@ -79,7 +79,7 @@ The system can be launched in **three different ways** depending on the use case
   ├── assets/
   └── README.md
 
-#------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------
 🗄️ Database
 
   MySQL database is used to store:
@@ -90,7 +90,7 @@ The system can be launched in **three different ways** depending on the use case
     Sales and billing records
     All database operations are handled using a DAO layer
 
-#------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------
 🎯 Purpose of the Project
   
   This project was developed to:
@@ -99,7 +99,7 @@ The system can be launched in **three different ways** depending on the use case
     Implement clean and maintainable architecture
     Build a strong portfolio project for internships and entry-level roles
     
-#################################################################################################################
+#####################################################################
 👤 Author
   
   Yash Garg
